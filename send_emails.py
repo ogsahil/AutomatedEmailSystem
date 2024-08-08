@@ -58,3 +58,4 @@ def main():
     print("All the emails sent successfully to clients!")
 if __name__ == '__main__':
     main()
+
